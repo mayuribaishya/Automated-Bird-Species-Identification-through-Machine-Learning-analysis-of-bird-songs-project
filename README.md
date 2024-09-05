@@ -1,3 +1,3 @@
-# Automated-Bird-Species-Identification-through-Machine-Learning-Analysis-of-Bird-Song-project
+# Automated-Bird-Species-Identification-through-Machine-Learning-Analysis-of-Bird-Songs-project
 This project focuses on using advanced machine learning techniques to identify bird species based on their vocalizations. Various neural network architectures are applied to achieve accurate classification, including Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), and Convolutional Recurrent Neural Networks (CRNNs). ANNs provide a fundamental framework for pattern recognition, while CNNs are utilized for extracting features from spectrograms or time-frequency representations of bird songs. CRNNs combine CNNs' feature extraction capabilities with recurrent layers, capturing both spatial and temporal information, enabling the model to understand complex acoustic patterns and sequences in bird calls, improving overall identification accuracy.
 
